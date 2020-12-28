@@ -1,0 +1,6 @@
+config--初始化变量
+library--特制的函数、方法
+test_data--测试数据
+test_case--测试用例
+test_suite--测试用例集
+report--报告
